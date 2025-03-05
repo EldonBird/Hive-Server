@@ -10,10 +10,12 @@ def output_callback(data):
 @app.post('/submission')
 def submission():
 
-    temp = float(request.form.get('temp'))
-    hum = float(request.form.get('hum'))
 
-    output_callback(temp + hum)
+    output = []
+    for i in request.form():
+        output.append(i)
+
+    output_callback(output)
     return str("complete")
 
 
