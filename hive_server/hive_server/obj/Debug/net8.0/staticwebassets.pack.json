@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\hive_server.bundle.scp.css",
+      "PackagePath": "staticwebassets\\hive_server.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.hive_server.props",
+      "PackagePath": "build\\hive_server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.hive_server.props",
+      "PackagePath": "buildMultiTargeting\\hive_server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.hive_server.props",
+      "PackagePath": "buildTransitive\\hive_server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.hive_server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
