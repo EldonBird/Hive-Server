@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hive_server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b1342325ca48fa1f67877dfff8107db7797d257")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca5853fea057b2cef33419a473793aa69bec5777")]
 [assembly: System.Reflection.AssemblyProductAttribute("hive_server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hive_server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
