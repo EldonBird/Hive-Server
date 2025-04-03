@@ -1,30 +1,69 @@
-D:\Projects\My software\Hive-Server\hive_server\hive_server\bin\Debug\net8.0\appsettings.Development.json
-D:\Projects\My software\Hive-Server\hive_server\hive_server\bin\Debug\net8.0\appsettings.json
-D:\Projects\My software\Hive-Server\hive_server\hive_server\bin\Debug\net8.0\hive_server.staticwebassets.runtime.json
-D:\Projects\My software\Hive-Server\hive_server\hive_server\bin\Debug\net8.0\hive_server.exe
-D:\Projects\My software\Hive-Server\hive_server\hive_server\bin\Debug\net8.0\hive_server.deps.json
-D:\Projects\My software\Hive-Server\hive_server\hive_server\bin\Debug\net8.0\hive_server.runtimeconfig.json
-D:\Projects\My software\Hive-Server\hive_server\hive_server\bin\Debug\net8.0\hive_server.dll
-D:\Projects\My software\Hive-Server\hive_server\hive_server\bin\Debug\net8.0\hive_server.pdb
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\hive_server.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\hive_server.AssemblyInfoInputs.cache
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\hive_server.AssemblyInfo.cs
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\hive_server.csproj.CoreCompileInputs.cache
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\hive_server.MvcApplicationPartsAssemblyInfo.cache
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\hive_server.sourcelink.json
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\staticwebassets.build.json
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\staticwebassets.development.json
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\staticwebassets\msbuild.hive_server.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\staticwebassets\msbuild.build.hive_server.props
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.hive_server.props
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.hive_server.props
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\scopedcss\bundle\hive_server.styles.css
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\scopedcss\projectbundle\hive_server.bundle.scp.css
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\hive_server.dll
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\refint\hive_server.dll
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\hive_server.pdb
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\hive_server.genruntimeconfig.cache
-D:\Projects\My software\Hive-Server\hive_server\hive_server\obj\Debug\net8.0\ref\hive_server.dll
+D:/Projects/My software/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/appsettings.Development.json
+D:/Projects/My software/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/appsettings.json
+D:/Projects/My software/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/hive_server.staticwebassets.runtime.json
+D:/Projects/My software/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/hive_server.exe
+D:/Projects/My software/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/hive_server.deps.json
+D:/Projects/My software/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/hive_server.runtimeconfig.json
+D:/Projects/My software/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/hive_server.dll
+D:/Projects/My software/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/hive_server.pdb
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.AssemblyInfoInputs.cache
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.AssemblyInfo.cs
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.csproj.CoreCompileInputs.cache
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.MvcApplicationPartsAssemblyInfo.cache
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.sourcelink.json
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/staticwebassets.build.json
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/staticwebassets.development.json
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/staticwebassets/msbuild.hive_server.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/staticwebassets/msbuild.build.hive_server.props
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.hive_server.props
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.hive_server.props
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/staticwebassets.pack.json
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/scopedcss/bundle/hive_server.styles.css
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/scopedcss/projectbundle/hive_server.bundle.scp.css
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.dll
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/refint/hive_server.dll
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.pdb
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.genruntimeconfig.cache
+D:/Projects/My software/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/ref/hive_server.dll
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.csproj.AssemblyReference.cache
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.GeneratedMSBuildEditorConfig.editorconfig
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.AssemblyInfoInputs.cache
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.AssemblyInfo.cs
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.csproj.CoreCompileInputs.cache
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.MvcApplicationPartsAssemblyInfo.cache
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.sourcelink.json
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.dll
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/refint/hive_server.dll
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.pdb
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/appsettings.Development.json
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/appsettings.json
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/empty.json
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/hive_server.staticwebassets.runtime.json
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/hive_server
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/hive_server.deps.json
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/hive_server.runtimeconfig.json
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/hive_server.dll
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/hive_server.pdb
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/DnsClient.dll
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/MongoDB.Bson.dll
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/MongoDB.Driver.dll
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/SharpCompress.dll
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/Snappier.dll
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/bin/Debug/net8.0/ZstdSharp.dll
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/staticwebassets.build.json
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/staticwebassets.development.json
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/staticwebassets/msbuild.hive_server.Microsoft.AspNetCore.StaticWebAssets.props
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/staticwebassets/msbuild.build.hive_server.props
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.hive_server.props
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.hive_server.props
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/staticwebassets.pack.json
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/scopedcss/bundle/hive_server.styles.css
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/scopedcss/projectbundle/hive_server.bundle.scp.css
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_ser.CECC339E.Up2Date
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/hive_server.genruntimeconfig.cache
+/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/ref/hive_server.dll

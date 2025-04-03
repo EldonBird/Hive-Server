@@ -599,19 +599,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Birdh\\.nuget\\packages\\": {}
+    "/home/eldon/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\hive_server.csproj",
+      "projectUniqueName": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/hive_server.csproj",
       "projectName": "hive_server",
-      "projectPath": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\hive_server.csproj",
-      "packagesPath": "C:\\Users\\Birdh\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\obj\\",
+      "projectPath": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/hive_server.csproj",
+      "packagesPath": "/home/eldon/.nuget/packages/",
+      "outputPath": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Birdh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/eldon/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -664,7 +664,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/eldon/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

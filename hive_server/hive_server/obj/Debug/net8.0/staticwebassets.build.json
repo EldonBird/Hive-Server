@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lihnjIQSOEFX3lkMNwlrsip3ULpHwYaBBhGBVR/DWic=",
+  "Hash": "SaOeBx06Hj9bc7QdA64S0MSnxYJ535J3HcfeJJn97j8=",
   "Source": "hive_server",
   "BasePath": "_content/hive_server",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "hive_server\\wwwroot",
+      "Name": "hive_server/wwwroot",
       "Source": "hive_server",
-      "ContentRoot": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\wwwroot\\",
+      "ContentRoot": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/wwwroot/",
       "BasePath": "_content/hive_server",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\obj\\Debug\\net8.0\\scopedcss\\bundle\\hive_server.styles.css",
+      "Identity": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/scopedcss/bundle/hive_server.styles.css",
       "SourceId": "hive_server",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/hive_server",
       "RelativePath": "hive_server.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\obj\\Debug\\net8.0\\scopedcss\\bundle\\hive_server.styles.css"
+      "OriginalItemSpec": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/scopedcss/bundle/hive_server.styles.css"
     },
     {
-      "Identity": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\hive_server.bundle.scp.css",
+      "Identity": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/scopedcss/projectbundle/hive_server.bundle.scp.css",
       "SourceId": "hive_server",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/hive_server",
       "RelativePath": "hive_server.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\hive_server.bundle.scp.css"
+      "OriginalItemSpec": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/obj/Debug/net8.0/scopedcss/projectbundle/hive_server.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\wwwroot\\app.css",
+      "Identity": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/wwwroot/app.css",
       "SourceId": "hive_server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\wwwroot\\",
+      "ContentRoot": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/wwwroot/",
       "BasePath": "_content/hive_server",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\app.css"
+      "OriginalItemSpec": "wwwroot/app.css"
     },
     {
-      "Identity": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/wwwroot/bootstrap/bootstrap.min.css",
       "SourceId": "hive_server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\wwwroot\\",
+      "ContentRoot": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/wwwroot/",
       "BasePath": "_content/hive_server",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/wwwroot/bootstrap/bootstrap.min.css.map",
       "SourceId": "hive_server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\wwwroot\\",
+      "ContentRoot": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/wwwroot/",
       "BasePath": "_content/hive_server",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\wwwroot\\favicon.png",
+      "Identity": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/wwwroot/favicon.png",
       "SourceId": "hive_server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\My software\\Hive-Server\\hive_server\\hive_server\\wwwroot\\",
+      "ContentRoot": "/home/eldon/Documents/GitHub/Hive-Server/hive_server/hive_server/wwwroot/",
       "BasePath": "_content/hive_server",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.png"
+      "OriginalItemSpec": "wwwroot/favicon.png"
     }
   ]
 }

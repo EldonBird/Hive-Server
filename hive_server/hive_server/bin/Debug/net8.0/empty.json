@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "module_id": 12345678,
+    "location": "Fort Worth",
+    "time": "2024-03-27T14:30:00Z",
+    "heat": 10,
+    "moisture": 100
+  },
+  {
+    "id": 2,
+    "module_id": 87654321,
+    "location": "Dallas",
+    "time": "2024-03-27T15:45:22Z",
+    "heat": 25,
+    "moisture": 45
+  },
+  {
+    "id": 3,
+    "module_id": 56781234,
+    "location": "Austin",
+    "time": "2024-03-27T16:20:11Z",
+    "heat": 18,
+    "moisture": 65
+  },
+  {
+    "id": 4,
+    "module_id": 43217865,
+    "location": "Houston",
+    "time": "2024-03-27T17:10:05Z",
+    "heat": 32,
+    "moisture": 30
+  },
+  {
+    "id": 5,
+    "module_id": 98761234,
+    "location": "San Antonio",
+    "time": "2024-03-27T18:05:37Z",
+    "heat": 22,
+    "moisture": 55
+  }
+]
